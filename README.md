@@ -1,5 +1,5 @@
 # My-Leetcode-Practice
-Leetcode Blind 75 Problem &amp; My Solutions
+Leetcode Blind 75 Problems &amp; My Solutions
 
 
 Reference:
